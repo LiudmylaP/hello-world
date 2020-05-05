@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-My name is Liudmyla. I like lern English
+My name is Liudmyla. I like learn English
